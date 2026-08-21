@@ -1,0 +1,6 @@
+{
+  "name": "BiteGo",
+  "description": "BiteGo Food Delivery Platform featuring restaurant discovery, full menu ordering, interactive cart & checkout, live animated order tracking, partner and admin portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
